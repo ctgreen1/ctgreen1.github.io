@@ -52,7 +52,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faMicrochip} size="3x"/>
                     <h3>Electrical Engineering</h3>
-                    <p>I have built a diverse array of printed circuit boards, simulators and testbenches, and I am well versed in troubleshooting techniques. A few key projects are the Ultimate Truck Hacking Platform (vehicle cybersecurity), an electrowetting biomedical device, and operational amplifier design and analysis.</p>
+                    <p>I have built a diverse array of printed circuit boards, simulators and testbenches, and am well versed in troubleshooting techniques. A few key projects are the Ultimate Truck Hacking Platform (vehicle cybersecurity), an electrowetting biomedical device, and operational amplifier design and analysis.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Skills:</span>
                         {labelsFirst.map((label, index) => (
@@ -96,7 +96,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>Programming</h3>
-                    <p>I have experience in Python, C/C++, and Linux, with a focus on embedded systems and software reverse engineering. Many of the projects I have worked on range from quick prototyping of software and hardware, using tools such as Arduino and Teensy, to full product developmend using a custom Yocto-based OS for truck hacking and analysis.</p>
+                    <p>I have experience in Python, C/C++, and Linux, with a focus on embedded systems and software reverse engineering. Many of the projects I have worked on range from quick prototyping of software and hardware, using tools such as Arduino and Teensy, to full product development using a custom Yocto-based OS for truck hacking and analysis.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Skills:</span>
                         {labelsThird.map((label, index) => (
