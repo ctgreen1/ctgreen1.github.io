@@ -96,7 +96,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>Programming</h3>
-                    <p>I have experience in Python, C/C++, and Linux, with a focus on embedded systems and software reverse engineering. Many of the projects I have worked on range from quick prototyping of software and hardware, using tools such as Arduino and Teensy, to full product development using a custom Yocto-based OS for truck hacking and analysis.</p>
+                    <p>I have experience in Python, C/C++, and Linux, with a focus on embedded systems and software reverse engineering. Many of the projects I have worked on range from quick prototyping of software and hardware, using tools such as Arduino and Teensy, to full product development using a custom Yocto-based OS for truck hacking and analysis. </p>
                     <div className="flex-chips">
                         <span className="chip-title">Skills:</span>
                         {labelsThird.map((label, index) => (
